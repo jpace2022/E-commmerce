@@ -58,10 +58,10 @@ Note that the functionality for creating the many-to-many relationship for produ
     
 
 ## Screenshot Image
-![E-Commerce demo](https://drive.google.com/file/d/1fyUEHXm-7xBzWviqzSDmoSCPQ3yY2XeH/view?usp=sharing)
+![E-Commerce demo](https://github.com/jpace2022/E-commmerce/blob/main/Assets/Insomnia.png?raw=true)
 
 
 
 ## Video Link
-[E-Commerce demo(https://drive.google.com/file/d/1fyUEHXm-7xBzWviqzSDmoSCPQ3yY2XeH/view?usp=sharing)]
+![E-Commerce demo](https://drive.google.com/file/d/1fyUEHXm-7xBzWviqzSDmoSCPQ3yY2XeH/view?usp=sharing)]
 
